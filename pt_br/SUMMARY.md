@@ -32,7 +32,7 @@
 1. [Não dependa da "Mágica que acontece aqui"](thing_29/README.md)
 1. [Não se repita](thing_30/README.md)
 1. [Não mexa nesse código!](thing_31/README.md)
-1. [Encapsulate Behavior, not Just State](thing_32/README.md)
+1. [Encapsule comportamentos, não apenas estado](thing_32/README.md)
 1. [Floating-point Numbers Aren't Real](thing_33/README.md)
 1. [Fulfill Your Ambitions with Open Source](thing_34/README.md)
 1. [The Golden Rule of API Design](thing_35/README.md)
