@@ -1,9 +1,8 @@
 # Aplique princípios de programação funcional
 
-Programação funcional tem desfrutado de um novo interesse da comunidade de programação "mainstream". Parte da razão é devido às "propriedades emergentes do paradigma funcional estarem preparadas para resolver os desafios colocados pela mudança da nossa indústria em direção ao uso de processadores de múltiplos núcleos. Entretanto, enquanto esse é um uso certamente importante da programação funcional, não é a razão que esse texto tenta te oferecer para conhecer progração funcional.
+Programação funcional tem desfrutado de um novo interesse da comunidade de programação "mainstream". Parte da razão é devido às "propriedades emergentes" do paradigma funcional estarem preparadas para resolver os desafios colocados pela mudança da nossa indústria em direção ao uso de processadores de múltiplos núcleos. Entretanto, enquanto esse é um uso certamente importante da programação funcional, não é a razão que esse texto tenta te oferecer para conhecer progração funcional.
 
 O domínio do paradigma da programação funcional pode melhorar significativamente a qualidade do código que você escreve em outros contextos. Se você entender profundamentamente e aplicar esse paradigma, seus projetos irão exibir um elevado grau de *transparência referential*.
-
 
 Transparência referencial é uma propriedade bastante desejável: ela implica que funções produzem consistentemente os mesmos resultados para a mesma entrada, independente de quando e onde essas funções são invocadas. Ou seja, a função depende menos - idealmente não depende - dos efeitos colaterais de um estado mutável.
 
