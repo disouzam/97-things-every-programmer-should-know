@@ -1,6 +1,6 @@
 # Aplique princípios de programação funcional
 
-Programação funcional tem desfrutado de um novo interesse da comunidade de programação "mainstream". Parte da razão é devido às "propriedades emergentes" do paradigma funcional estarem preparadas para resolver os desafios colocados pela mudança da nossa indústria em direção ao uso de processadores de múltiplos núcleos. Entretanto, enquanto esse é um uso certamente importante da programação funcional, não é a razão que esse texto tenta te oferecer para conhecer progração funcional.
+Programação funcional tem desfrutado de um novo interesse da comunidade de programação "mainstream". Parte da razão é devido às "propriedades emergentes" do paradigma funcional estarem preparadas para resolver os desafios colocados pela mudança da nossa indústria em direção ao uso de processadores de múltiplos núcleos. Entretanto, enquanto esse é um uso certamente importante da programação funcional, não é a razão que esse texto tenta te oferecer para conhecer programação funcional.
 
 O domínio do paradigma da programação funcional pode melhorar significativamente a qualidade do código que você escreve em outros contextos. Se você entender profundamentamente e aplicar esse paradigma, seus projetos irão exibir um elevado grau de *transparência referential*.
 
@@ -14,6 +14,6 @@ O resultado líquido é um projeto que tipicamente possui melhor responsabilidad
 
 É claro que essa abordagem não é ótima para todas as situações. Por exemplo, em sistemas orientados a objeto, esse estilo geralmente produz melhores resultados quado acoplado ao desenvolvimento do modelo de domínio (ou seja, quando as colaborações servem para reduzir a complexidade das regras de negócio). O mesmo não se observa no desenvolvimento de interfaces de usuário.
 
-Domine o paradigma da programação funcional de forma que você seja capaz de aplicar cuidadosamente as lições aprendidas em outros domínios. Seus sistemas de objetos irão ressoar com boa transparência referencial e serãos mais próximos aos seus pares funcionais do que muitos te farão acreditar. De fato, alguns afirmam que o ápice da programação funcionao e da orientação a objetos são meramente um reflexo um do outro, uma forma computacional de yin e yang.
+Domine o paradigma da programação funcional de forma que você seja capaz de aplicar cuidadosamente as lições aprendidas em outros domínios. Seus sistemas de objetos irão ressoar com boa transparência referencial e serãos mais próximos aos seus pares funcionais do que muitos te farão acreditar. De fato, alguns afirmam que o ápice da programação funcional e da orientação a objetos são meramente um reflexo um do outro, uma forma computacional de yin e yang.
 
 Por [Edward Garson](http://programmer.97things.oreilly.com/wiki/index.php/Edward_Garson)
