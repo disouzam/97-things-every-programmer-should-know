@@ -8,9 +8,7 @@ A melhor forma de descobrir como os usuários pensam é observar um. Peça a um 
 
 A primeira coisa que você irá notar é que os usuários fazem um conjunto de tarefas centrais de forma muito similar. Eles tentam completar as tarefas na mesma ordem - e eles cometem os mesmos erros nos mesmos pontos. Você deve projetar seu sistema ao redor daquele conjunto de tarefas padrão. Isso é bem distinto das reuniões de "design thinking", onde as pessoas tendem a perguntar "O que acontece se o usuário quiser...?" Isso conduz à funcionalidades muito elaboradas e confusão sobre aquilo que o usuário quer de fato. Observar os usuários elimina essa confusão.
 
-
 Você verá usuários ficando paralisados ao executar uma tarefa. Quando você se paralisa, você olha ao redor. Quando usuários ficam paralisados, eles reduzem seu foco. Torna-se difícil para eles encontrar a solução em algum outro lugar na tela. Essa é uma das razões porque textos de ajuda são soluções fracas para um design de interface de usuário deficiente. Se você inserir instruções ou texto de ajuda, posicione-os próximo à area problemática. O foco limitado de atenção do usuário é a razão que faz que dicas de ferramentas são melhores que menus de ajuda.
-
 
 Usuários tendem a se confundir. Eles encontraão uma forma que funciona e não abrirão mão não importe o quão difícil seja. É melhor fornecer uma manteira realmente óbvia que dois ou três atalhos. Você irá descobrir que existe um gap entre o que os usuários dizem que querem e o que eles de fato querem. É preocupante que a forma normal de coletar requisitos de usuários seja perguntar aos usuários. A melhor forma de capturar requisitos é observar os usuários. Gastar uma hora observando seus usuários é mais informativo do que gastar um dia inteiro imaginando o que eles querem.
 
