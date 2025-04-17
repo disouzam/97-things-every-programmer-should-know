@@ -34,7 +34,7 @@
 1. [Não mexa nesse código!](thing_31/README.md)
 1. [Encapsule comportamentos, não apenas estado](thing_32/README.md)
 1. [Números de ponto flutuante não são reais](thing_33/README.md)
-1. [Fulfill Your Ambitions with Open Source](thing_34/README.md)
+1. [Satisfaça suas ambições com open source](thing_34/README.md)
 1. [The Golden Rule of API Design](thing_35/README.md)
 1. [The Guru Myth](thing_36/README.md)
 1. [Hard Work Does not Pay Off](thing_37/README.md)
