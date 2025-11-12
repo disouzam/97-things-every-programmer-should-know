@@ -38,7 +38,7 @@
 1. [A regra de ouro do projeto de APIs](thing_35/README.md)
 1. [O mito do guru](thing_36/README.md)
 1. [O trabalho duro não compensa](thing_37/README.md)
-1. [How to Use a Bug Tracker](thing_38/README.md)
+1. [Como usar um gerenciador de bugs](thing_38/README.md)
 1. [Improve Code by Removing It](thing_39/README.md)
 1. [Install Me](thing_40/README.md)
 1. [Inter-Process Communication Affects Application Response Time](thing_41/README.md)
